@@ -1,0 +1,204 @@
+@media only screen and (max-width: 600px) {
+    body {
+        
+      background-color: lightblue;
+    }
+  }
+
+.container{
+    background-image: url(Hoteli.jpg);
+    margin-bottom: 5%;
+    padding: 0px;
+}
+.heading{
+    text-align: center;
+    padding: 100px; 
+    color: white;
+}
+.hotels{
+    text-align: center;
+}
+.location{
+margin-left: 30%;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    background-image: url();
+}
+.login{
+    margin: 0px,10px,0px,10px;
+}
+.signup{
+    margin: 0px,30px,0px,30px;
+    background-color: rgb(99, 148, 192);
+}
+.popular{
+    display: flex;
+    justify-content: space-between;
+}
+.dubai{
+width: 30%;
+height: 80%;
+}
+.roma{
+    width: 30%;
+}
+.buton{
+    padding:1%,3px;
+}
+.place{
+    width: 30%;
+}
+.facility{
+    
+    text-align:center ;
+}
+.menus{
+    text-align: center;
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.Rooms{
+    text-align: center;
+}
+
+.room1{
+    display: flex;
+    justify-content: space-between;
+}
+.bay{
+    width: 30%;
+}
+.room{
+    width: 30%;
+}
+.hroom{
+    width: 30%;
+
+}
+.luxuryroom{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}.oroom{
+    width: 30%;
+}
+.troom{
+    width: 30%;
+}
+.eroom{
+    width: 30%;
+}
+.luxuryrooms{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}
+.room2{
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.pasta{
+    width: 90%;
+}
+.rice{
+    width: 90%;
+}
+.meat{
+    width: 90%;
+}
+.food{
+    display: flex;
+    justify-content: space-between;
+}
+.meat1{
+    width: 30%;
+}
+.pasta1{
+    width: 30%;
+}
+.rice1{
+    width: 30%;
+}
+.meal{
+    display: flex;
+    justify-content: space-between;
+}
+.food1{
+    display: flex;
+    margin-bottom: 10%;
+    justify-content: space-between; 
+}
+button{
+    padding: 10px,10px;
+    border-radius: 10px;
+    background-color: rgb(192, 192, 240);
+}
+.clients{
+    text-align: center;
+}
+.choose{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    height: 90%;
+}
+.happy{
+    margin-right: 10%;
+}
+.clients{
+   background-color: blue;
+   padding: 2px;
+    border-radius: 3px;
+}
+.holet{
+    text-align: center;
+    margin-bottom: 10%;
+}
+.hotels{
+background-color: blue;
+padding: 2px;
+border-radius: 3px;
+}
+.reviews{
+    background-color: blue;
+    padding: 2px;
+    border-radius: 3px;
+
+}
+.people{
+    text-align: center;
+}
+.CLIENTS{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}
+.footer{
+    background-color: rgb(6, 159, 159);
+    
+}
+.nuro{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.why{
+    text-align: center;
+}
