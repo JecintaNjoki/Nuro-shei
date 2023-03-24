@@ -1,8 +1,10 @@
 @media only screen and (max-width: 600px) {
     body {
-        
+    }
       background-color: lightblue;
     }
+  .body{
+    background-color: gainsboro;
   }
 
 .container{
@@ -190,6 +192,7 @@ border-radius: 3px;
 }
 .footer{
     background-color: rgb(6, 159, 159);
+    border-radius: 30px;
     
 }
 .nuro{
@@ -201,4 +204,49 @@ border-radius: 3px;
 }
 .why{
     text-align: center;
+}
+.area{
+  display: flex;
+  justify-content: space-between;  
+}
+.bet{
+    width: 15%;
+}
+.hotl{
+    width: 12%;
+    height: 35%;
+}
+.concept{
+    width: 15%;
+}
+.areas{
+    display: flex;
+    justify-content: space-between;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.short{
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    width: 200%;
+}
+.vision{
+    display: flex;
+    justify-content: space-between;
+}
+.vmage{
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%; 
+    width: 80%;
+}
+.aproach{
+    display: flex;
+    justify-content: space-between;
+}
+.pool{
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%; 
+    width: 80%;
 }
