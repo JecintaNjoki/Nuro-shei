@@ -1,8 +1,8 @@
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
     body {
     }
       background-color: lightblue;
-    }
+    } */
   .body{
     background-color: gainsboro;
   }
@@ -278,6 +278,14 @@ justify-content: space-between;
     display: flex;
     justify-content: space-between;
 }
+.abot{
+    display: flex;
+    justify-content: space-between;
+}
+.bout{
+    display: flex;
+    justify-content: space-between;  
+}
 .about{
     display: flex;
     justify-content: space-between;
@@ -304,6 +312,7 @@ justify-content: space-between;
 .vision{
     display: flex;
     justify-content: space-between;
+
 }
 .vmage{
     border-top-right-radius: 20%;
@@ -321,7 +330,9 @@ justify-content: space-between;
 }
 .contact{
     text-align: center;
+    background-color: ;
 }
 .form{
     margin-top: 10%;
+    background-color: ;
 }
