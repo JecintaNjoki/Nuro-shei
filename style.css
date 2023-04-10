@@ -236,31 +236,41 @@ margin-bottom: 5%;
 }
 .bet{
     width: 15%;
+    padding: 2%;
 }
 .hotl{
-    width: 12%;
-    height: 35%;
+    width: 20%;
+    height: 0%;
+    padding: 2%;
 }
 .concept{
-    width: 15%;
+    width: 20%;
+    height:0px ;
+    padding: 2%;
 }
 .blog{
-    width: 15%;
+    width: 20%;
+    padding: 2%;
 }
 .resize{
-    width: 15%;
+    width: 20%;
+    padding: 2%;
 }
 .hong{
-    width: 15%;
+    width: 20%;
+    padding: 2%;
 }
 .kong{
-    width: 15%;
+    width: 20%;
+    padding:2%;
 }
 .view{
-    width: 15%;
+    width: 20%;
+    padding: 2%;
 }
 .habo{
-    width: 15%;
+    width: 20%; 
+    padding: 2%;
 }
 .piccon{
 justify-content: space-between;
@@ -273,10 +283,16 @@ justify-content: space-between;
 }
 .pics{
     display: grid;
+    margin-left: 100px;
 }
 .areas{
     display: flex;
     justify-content: space-between;
+    background-color: cornflowerblue;
+   
+}
+.us{
+    background-color: cornflowerblue;
 }
 .abot{
     display: flex;
@@ -330,9 +346,15 @@ justify-content: space-between;
 }
 .contact{
     text-align: center;
-    background-color: ;
+    background-color: cornflowerblue;
 }
-.form{
+.contact{
     margin-top: 10%;
-    background-color: ;
+    background-color: cornflowerblue;
+}
+.submit{
+border-radius: 20px;
+margin: 2%;
+padding: 20px;
+display: grid;
 }
